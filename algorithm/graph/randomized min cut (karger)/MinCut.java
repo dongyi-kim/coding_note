@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-import javax.swing.event.ListSelectionEvent;
-
-
 public class MinCut {	
 		public static final int T = 3;
 		public static final Scanner scanner = new Scanner(System.in);
@@ -45,8 +42,9 @@ public class MinCut {
 					e.setWeight(random.nextInt(10000000));
 				}
 				Kruskal k = Kruskal.getMSTforKarger(g);
-				int cuts = 0;	//minimum-cut by this test
+				int cuts = 0;	//minimum-cut in this test
 				for(Graph.Edge e: edge){
+					//if edge e cross two group, e is one of cuts.
 					if(k.find(e.u) != k.find(e.v))
 						cuts++;
 				}
