@@ -5,6 +5,10 @@
  - **LavidaOJ** : [mitslll](http://lavida.us/userinfo.php?user=mitslll)
  - **BOJ** : [mitslll](https://www.acmicpc.net/user/mitslll)
 
+**Education**
+ - 아주대학교 소프트웨어학과 (2017.02. 졸업예정)
+ - 광희고등학교 정보처리학과 (2012.02. 졸업)
+
 **Work History**
  - **NAVER** Part-time Developer (2015.11 - 2016.03)
   - Android App Development (Java)
@@ -22,12 +26,6 @@
  - Senior Smart 
   - Android Application for Education
  
-
-
-**Education**
- - 아주대학교 소프트웨어학과 (2017.02. 졸업예정)
- - 광희고등학교 정보처리학과 (2012.02. 졸업)
-
 **Archivement**
  - 전국 대학생 프로그래밍 경시대회 은상, 2015
  - 전국 대학생 프로그래밍 경시대회 동상, 2013
