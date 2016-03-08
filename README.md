@@ -15,10 +15,11 @@
  - **Garage Story**, Full-time Developer (2014.02 - 2014.09)
   - Android App Development (Java)
   - Windows App Development (C#)
- 
+
 **Development**
- - 123
- - 123
+ - 123 
+
+
 **Education**
  - 아주대학교 소프트웨어학과 (2017.02. 졸업예정)
  - 광희고등학교 정보처리학과 (2012.02. 졸업)
