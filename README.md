@@ -1,4 +1,4 @@
-# Dongyi Kim
+# Dongyi Kim (1993.05.03)
  - **Email** : waps12b@naver.com
  - **GitHub** : [waps12b](https://github.com/waps12b)
  - **Codeforces** : [mitslll](http://codeforces.com/profile/mitslll)
