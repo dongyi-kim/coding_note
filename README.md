@@ -22,9 +22,9 @@
 
 **Development**
  - shake!
-  - Online Programming Contest Service
+  - 온라인 프로그래밍 콘테스트 플랫폼
  - Senior Smart 
-  - Android Application for Education
+  - 노년층 대상 교육용 안드로이드 어플리케이션
  
 **Archivement**
  - 전국 대학생 프로그래밍 경시대회 은상, 2015
