@@ -17,9 +17,11 @@
   - Windows App Development (C#)
 
 **Development**
- - shake! Programming Contest
+ - shake!
+  - Online Programming Contest Service
   - 
  - Senior Smart 
+  - Android Application for Education
   - 
 
 
