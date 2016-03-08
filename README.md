@@ -19,10 +19,9 @@
 **Development**
  - shake!
   - Online Programming Contest Service
-  - 
  - Senior Smart 
   - Android Application for Education
-  - 
+ 
 
 
 **Education**
