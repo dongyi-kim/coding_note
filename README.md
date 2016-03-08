@@ -9,10 +9,10 @@
  - **NAVER** Part-time Developer (2015.11 - 2016.03)
   - Android App Development (Java)
   - Windwos App Development (C#)
- - **ICTK** Full-time Researcher (2014.02 - 2014.09)
+ - **ICTK** Full-time Researcher (2014.07 - 2015.06)
   - Windows App Development
   - Security Device Testing & Research
- - **Garage Story**, Full-time Developer (2014.09 - 2015.07)
+ - **Garage Story**, Full-time Developer (2014.02 - 2014.07)
   - Android App Development (Java)
   - Windows App Development (C#)
  
