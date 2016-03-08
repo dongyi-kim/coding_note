@@ -17,7 +17,10 @@
   - Windows App Development (C#)
 
 **Development**
- - 123 
+ - shake! Programming Contest
+  - 
+ - Senior Smart 
+  - 
 
 
 **Education**
