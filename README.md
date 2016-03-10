@@ -10,7 +10,7 @@
  - 광희고등학교 정보처리학과 (2012.02. 졸업)
 
 **Work History**
- - **NAVER** Part-time Developer (2015.11 - 2016.03)
+ - **NAVER Labs** Part-time Developer (2015.11 - 2016.03)
   - Android App Development (Java)
   - Windwos App Development (C#)
  - **ICTK** Full-time Researcher (2014.09 - 2015.07)
