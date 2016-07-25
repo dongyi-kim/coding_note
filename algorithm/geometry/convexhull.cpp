@@ -1,4 +1,7 @@
-
+//#include "template.h"
+#include<vector>
+#include<algorithm>
+using namespace std;
 namespace convexhull{
     point origin;
     bool comparator(const point & a , const point & b ) {
